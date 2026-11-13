@@ -6,7 +6,7 @@ Owaineur - It's a compact neural network of the multilayer perceptron type. It's
 
 ## Characteristics and power
 
-It has 5 inputs, 5 hidden neurons in 1 hidden layer, and 5 output neurons. The interface is console-based, and data is entered directly during program execution.
+It has 12 inputs, 24 hidden neurons in 2 hidden layers (12 and 12), and 12 output neurons. The interface is console-based, and data is entered directly during program execution.
 
 ## License
 
